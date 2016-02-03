@@ -1,0 +1,22 @@
+{
+  "name": "angular-localstorage",
+  "version": "1.0.0",
+  "description": "Modulo para trabalhar com dados no local storage",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "angular",
+    "localstorage"
+  ],
+  "author": "Paulo Roberto da Silva",
+  "license": "WTFPL",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-jasmine": "^0.3.7",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.3"
+  }
+}

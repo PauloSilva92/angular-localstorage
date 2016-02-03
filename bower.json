@@ -1,0 +1,27 @@
+{
+  "name": "angular-localstorage",
+  "description": "Modulo para trabalhar com dados no local storage",
+  "main": "app.js",
+  "authors": [
+    "Paulo Roberto da Silva"
+  ],
+  "license": "WTFPL",
+  "keywords": [
+    "angular",
+    "localstorage"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9",
+    "angular-mocks": "^1.4.9",
+    "angular-resource": "^1.4.9"
+  }
+}
