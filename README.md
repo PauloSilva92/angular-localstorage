@@ -14,8 +14,8 @@
 
 2. get
 
-  localStorage.save(name);
+  localStorage.get(name);
 
 3. remove
 
-  localStorage.save(name, value);
+  localStorage.remove(name);
